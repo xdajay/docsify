@@ -13,7 +13,7 @@
   - [Language highlighting](language-highlight.md)
 
 - Guide
-  - [Deploy](deploy.md)
+  - [Deploy Haha](deploy.md)
   - [Helpers](helpers.md)
   - [Vue compatibility](vue.md)
   - [CDN](cdn.md)
