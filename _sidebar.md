@@ -1,4 +1,2 @@
 - Getting started
-  - Hihi
-  - Haha
-  
+- [Another Link](http://google.com)
